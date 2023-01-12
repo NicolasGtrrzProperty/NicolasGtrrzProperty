@@ -1,9 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nicolás Gutiérrez Escobar</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
-<img align=right alt="Coding" width="400" src="https://media3.giphy.com/media/1iUZiXocraqiP7zy/giphy.gif?cid=790b7611a6e3282f29276e8a2e1c3ab1fe89ea11e9c068fd&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasgtrrzproperty&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasgtrrzproperty" /> </p>
+
+<img align=right alt="Coding" width="400" src="https://media3.giphy.com/media/1iUZiXocraqiP7zy/giphy.gif?cid=790b7611a6e3282f29276e8a2e1c3ab1fe89ea11e9c068fd&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **CNC projects/ Games with AI**
 
